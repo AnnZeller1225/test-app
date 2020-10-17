@@ -5,7 +5,7 @@ Technologies used: <br>
 React, <br>
 redux,<br>
  react-router,<br> 
- Hooks<br>
+ Hooks <br>
 What is implemented: <br>
 adding a task, timing, deleting a task, adding to favorites, duplicating a created task
 What do I plan to add<br>
