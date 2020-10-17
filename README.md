@@ -1,6 +1,6 @@
 # Time-tracker app <br>
 An application for tracking the time spent on a specific task (under development at the moment) <br>
-Demo: https://annzeller1225.github.io/test-app/#/
+Demo: https://annzeller1225.github.io/test-app/#/  <br>
 Technologies used: <br>
 React, <br>
 redux,<br>
